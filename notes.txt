@@ -25,5 +25,11 @@ Jensen Harris - UI Ribbon design
 https://docs.microsoft.com/en-us/archive/blogs/jensenh/
 
 
-Jakob Nielson
+Jakob Nielsen
 https://www.nngroup.com/articles/goal-composition/
+
+Learn from NNielsen
+https://philip.greenspun.com/ancient-history/nielsen
+
+Language order
+https://www.theguardian.com/commentisfree/2016/sep/13/sentence-order-adjectives-rule-elements-of-eloquence-dictionary#:~:text=The%20rule%20is%20that%20multiple,or%20leather%20walking%20brown%20boots.
